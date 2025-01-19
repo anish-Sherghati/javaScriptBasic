@@ -32,11 +32,6 @@ console.table([accountId,accountEmail,accountPassword,accountstate]);
 
 
 
-
-
-
-
-
 // accountEmail = "hc@hc.com"
 // accountPassword = "21212121"
 // accountCity = "Bengaluru"
